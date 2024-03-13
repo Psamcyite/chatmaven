@@ -57,3 +57,4 @@ We welcome feedback and contributions from the community to enhance ChatMaven. I
 ## License
 
 ChatMaven is licensed under the [MIT License](LICENSE).
+
