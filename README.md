@@ -1,15 +1,17 @@
 
 # ChatMaven
 
-Welcome to ChatMaven – your intelligent chat companion! ChatMaven is a versatile AI chat app designed to revolutionize your conversational experience. Whether you need a virtual assistant, a friendly chat partner, or assistance with tasks, ChatMaven is here to help.
+Welcome to ChatMaven – your intelligent chat companion! ChatMaven is a versatile AI chat app designed with sleek parallax effects and bento box layouts to revolutionize your conversational experience. Whether you need a virtual assistant, a friendly chat partner, or assistance with tasks, ChatMaven is here to help.
 
 ## Features
 
 - **Natural Language Understanding**: ChatMaven employs state-of-the-art natural language processing techniques to understand and respond to your messages naturally.
 - **Personalization**: Tailored responses based on your preferences and past interactions ensure a personalized experience every time.
+- **Parallax Animation**: Its's engaging effects triggered by mouse movement and scrolling.
 - **Task Assistance**: From setting reminders to providing information and recommendations, ChatMaven assists you with various tasks efficiently.
 - **24/7 Availability**: ChatMaven is available round the clock, ready to chat whenever you need it.
 - **Multi-platform Support**: Access ChatMaven from your favorite devices and platforms, including web, mobile, and desktop.
+- **Responsive**: It ensures seamless functionality and aesthetics across all devices and many more, including code architecture and reusability.
 
 ## Getting Started
 
