@@ -1,4 +1,4 @@
-import chatmaven from "./chatmaven.svg";
+import chatmaven from "./chatmaven.png";
 import check from "./check.svg";
 import chatmavenSymbol from "./chatmaven-symbol.svg";
 import chatmavenWhiteSymbol from "./chatmaven-symbol-white.svg";
