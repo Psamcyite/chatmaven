@@ -40,15 +40,25 @@ Follow these steps to set up a development environment for ChatMaven:
 ```
 chatmaven/
 ├── public/
-│   └── index.html
+│   └── ...
 ├── src/
+│   ├── assets/
+│   │   └── ...
+│   ├── constants/
+│   │   └── ...
 │   ├── components/
 │   │   └── ...
 │   ├── App.jsx
-│   └── index.jsx
+│   ├── index.css
+│   └── main.jsx
 ├── .gitignore
+├── index.html
+├── LICENSE
+├── package-lock.json
 ├── package.json
+├── postcss.config.js
 ├── README.md
+├── tailwind.config.js
 └── vite.config.js
 ```
 
@@ -59,4 +69,3 @@ We welcome feedback and contributions from the community to enhance ChatMaven. I
 ## License
 
 ChatMaven is licensed under the [MIT License](LICENSE).
-
